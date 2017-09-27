@@ -1,4 +1,4 @@
-Mavo.Locale.register("br", {
+Mavo.Locale.register("pt-br", {
 	"edit": "Editar",
 	"save": "Salvar",
 	"clear": "Limpar",
